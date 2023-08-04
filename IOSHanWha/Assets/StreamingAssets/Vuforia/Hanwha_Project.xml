@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Boss4" size="0.132291 0.132291" />
+    <ImageTarget name="Temp1" size="0.132291 0.132291" />
+    <ImageTarget name="11" size="0.132291 0.132291" />
+    <ImageTarget name="10" size="0.132291 0.132291" />
+    <ImageTarget name="9" size="0.132291 0.132291" />
+    <ImageTarget name="5" size="0.132291 0.132291" />
+    <ImageTarget name="3" size="0.132291 0.132291" />
+    <ImageTarget name="2" size="0.132291 0.132291" />
+    <ImageTarget name="4" size="0.132291 0.132291" />
+    <ImageTarget name="Temp2" size="0.132291 0.132291" />
+    <ImageTarget name="PororoTicket" size="0.132291 0.132291" />
+    <ImageTarget name="PororoSpring" size="0.132291 0.132291" />
+    <ImageTarget name="PororoPool" size="0.132291 0.132291" />
+    <ImageTarget name="PororoGlass" size="0.132291 0.132291" />
+    <ImageTarget name="Boss3" size="0.132291 0.132291" />
+    <ImageTarget name="Boss2" size="0.132291 0.132291" />
+    <ImageTarget name="Boss1" size="0.132291 0.132291" />
+    <ImageTarget name="8" size="0.132291 0.132291" />
+    <ImageTarget name="7" size="0.132291 0.132291" />
+    <ImageTarget name="6" size="0.132291 0.132291" />
+    <ImageTarget name="Boss5" size="0.132291 0.132291" />
+    <ImageTarget name="1" size="0.132291 0.132291" />
+  </Tracking>
+</QCARConfig>
